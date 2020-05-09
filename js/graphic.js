@@ -2,7 +2,7 @@
 
 //enter google sheets key here
 var key =
-  "https://docs.google.com/spreadsheets/d/2PACX-1vTPMhneRhRYxxv9B_uaVbumatmGz3HojfT73JlQJJ33oAzO5nP55cIcMKf_GOA_IvOooha8m7Yh2BNu/pubhtml?gid=489792061&single=true";
+  "https://docs.google.com/spreadsheets/d/1xVSXvR796R-HHYGYqq1qV89aMCl0ewqZ6mHU_LNBMFw/pubhtml?gid=489792061&single=true";
 
 //"data" refers to the column name with no spaces and no capitals
 //punctuation or numbers in your column name
