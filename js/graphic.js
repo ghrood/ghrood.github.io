@@ -8,14 +8,14 @@ var key =
 //punctuation or numbers in your column name
 //"title" is the column name you want to appear in the published table
 var columns = [{
-  "data": "company",
-  "title": "Company"
+  "data": "rank",
+  "title": "Rank"
 }, {
-  "data": "incentives",
-  "title": "Claims"
+  "data": "country",
+  "title": "Country"
 }, {
-  "data": "share",
-  "title": "Total Awarded"
+  "data": "score",
+  "title": "Total Points"
 }];
 
 $(document).ready(function() {
