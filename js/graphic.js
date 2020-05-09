@@ -2,7 +2,7 @@
 
 //enter google sheets key here
 var key =
-  "https://docs.google.com/spreadsheets/d/1l6V8uQxZr_NBgv44riJsaJuIt3g-8UhYF6gLASjBep8/edit?usp=sharing";
+  "https://docs.google.com/spreadsheets/d/113QZOTS9JQ1WGfwjwQrOpErUBJTAnaBmdjP0_OjA53c/pubhtml?gid=489792061&single=true";
 
 //"data" refers to the column name with no spaces and no capitals
 //punctuation or numbers in your column name
@@ -11,10 +11,10 @@ var columns = [{
   "data": "company",
   "title": "Company"
 }, {
-  "data": "incentives",
+  "data": "violations",
   "title": "Claims"
 }, {
-  "data": "share",
+  "data": "total-award",
   "title": "Total Awarded"
 }];
 
